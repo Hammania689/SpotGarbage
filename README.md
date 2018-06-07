@@ -1,5 +1,7 @@
 SpotGarbage
 ===========
+Paper can be found [here](http://delivery.acm.org/10.1145/2980000/2971731/p940-mittal.pdf?ip=128.2.177.146&id=2971731&acc=ACTIVE%20SERVICE&key=A792924B58C015C1%2E5A12BE0369099858%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1528403532_3a32befd40410dd3a51f4d2817bfe218)
+
 Smartphone App to Detect Garbage Using Deep Learning
 ----------------------------------------------------
 
